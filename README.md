@@ -84,7 +84,7 @@ Design & UX/UI
 ---
 ![macos](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
-![visual-studio](https://img.shields.io/badge/Visual-Studio-007ACC?style=for-the-badge&logo=Visual-Studio&logoColor=white)
+![visual-studio](https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?style=for-the-badge&logo=Visual-Studio&logoColor=white)
 ![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![phpstorm](https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=PHPStorm&logoColor=white)
 
