@@ -90,4 +90,4 @@ Design & UX/UI
 
 🔗 Links
 ---
-<a href="https://fr.linkedin.com/in/ismael-mohamed" rel="some text">![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+<a href="https://fr.linkedin.com/in/ismael-mohamed" rel="Ismael Mohamed" target="_blank">![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
