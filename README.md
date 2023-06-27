@@ -4,9 +4,9 @@ Hi there!
 
 🚀 About Me
 ---
-I'm Ismael, a Front End web developer (specializing in React applications) and a Back End developer (Nest JS, Node JS and Symfony). I have a Master's degree obtained in 2021 from Supinfo International University.
+I'm Ismael, a mobile/web developer and a Back End developer (Nest JS, Node JS and Symfony). I have a Master's degree obtained in 2021 from Supinfo International University.
 
-👨💻 I am really excited to learn new technologies. In 2022, I learned Nest JS, Angular, Kubernetes, Ionic, Progressive Web App (PWA) and GraphQL. Next to this new knowledge, I use a lot of DevOps tools like Docker, Github Action, Gitlab CI/CI, Jenkins, AWS, DigitalOcean and many more.
+👨💻 I am really excited to learn new technologies. In 2023, I learned Nest JS, Angular, Kubernetes, Ionic, Progressive Web App (PWA) and GraphQL. Next to this new knowledge, I use a lot of DevOps tools like Docker, Github Action, Gitlab CI/CI, Jenkins, AWS, DigitalOcean and many more.
 
 🎮🚁 Outside of the tech world too, I like to push myself to develop new skills. My hobbies range from video games to FPV drones, not to mention some wacky hobbies like using my hands. With no ulterior motives of course.
 
