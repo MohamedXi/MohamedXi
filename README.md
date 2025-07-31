@@ -1,14 +1,39 @@
-Hi there!
+### 👋 Hi there!
 
-🚀 About Me
+#### 🚀 About Me
+
+I'm **Ismael**, a software engineering consultant with **8+ years** of experience in web & mobile development.
+I specialize in:
+
+* **Front-end**: ReactJS, VueJS, Angular, React Native, Flutter, SwiftUI
+* **Back-end**: NestJS, NodeJS, Symfony
+* **UX/UI**: 4 years of design expertise, design systems & accessibility best practices
+* **Mobile**: iOS & Android native/hybride apps
+
+🎓 I hold a Master’s degree from the intergalactic **Supinfo University** (yep, we code at light speed there).
+
+#### 👨‍💻 Tech I Love
+
+I enjoy crafting scalable and elegant applications using:
+
+* **NestJS**, **Angular**, **Ionic**, **PWA**, **DDD**
+* Tools like **Storybook**, **Chromatic**, **Stencil**, **Figma**, **Redux**, and more
+* **Clean Architecture**, **Testing**, **CI/CD**, and a solid dose of pragmatism
+
+I also design and lead **training programs** (React, Next.js, TypeScript, Clean Code, etc.) for dev teams and tech companies.
+
+#### 🎮 Off-Duty
+
+Outside of code, you’ll find me:
+
+* Flying **FPV drones**
+* Building quirky yet useful side-projects
+* Playing video games
+* Reading tons of dev books & articles to stay sharp
+
 ---
-I'm Ismael, a software engineering consultant with 8+ years of experience in development, specializing in web/mobile (ReactJS, VueJS, Angular, SwiftUI, React Native, Flutter) and Back End (Nest JS, Node JS, and Symfony). Additionally, I bring 4 years of expertise in UX/UI design to the table. I earned a Master's degree from the intergalactic Supinfo University.
-
-👨💻 I'm passionate about technology, juggling Nest JS, Angular, Ionic, Progressive Web App (PWA), Domain-Driven Design (DDD), as well as tools like Storybook, Chromatic, Figma, Stencil, and Redux (for keeping a cool head in state management). Oh, and I'm also a master in the art of training others.
-
-🎮🚁 Beyond coding, I unwind with video games, take to the skies with my FPV drones, and tinker with all sorts of quirky yet practical projects. Not to mention my avid reading of articles and books on software development to stay at the forefront of technology.
-
-That's me!
+>💡 *Let’s build something great — or weird but fun.*"
+---
 
 🛠️ Skills
 ---
