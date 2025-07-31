@@ -2,7 +2,7 @@ Hi there!
 
 🚀 About Me
 ---
-I'm Ismael, a software engineering consultant with 7 years of experience in development, specializing in mobile/web and Back End (Nest JS, Node JS, and Symfony). Additionally, I bring 4 years of expertise in UX/UI design to the table. I earned a Master's degree from the intergalactic Supinfo University.
+I'm Ismael, a software engineering consultant with 8+ years of experience in development, specializing in web/mobile (ReactJS, VueJS, Angular, SwiftUI, React Native, Flutter) and Back End (Nest JS, Node JS, and Symfony). Additionally, I bring 4 years of expertise in UX/UI design to the table. I earned a Master's degree from the intergalactic Supinfo University.
 
 👨💻 I'm passionate about technology, juggling Nest JS, Angular, Ionic, Progressive Web App (PWA), Domain-Driven Design (DDD), as well as tools like Storybook, Chromatic, Figma, Stencil, and Redux (for keeping a cool head in state management). Oh, and I'm also a master in the art of training others.
 
